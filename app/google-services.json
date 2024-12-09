@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665837038463",
+    "project_id": "reciclaguarulhos-446ed",
+    "storage_bucket": "reciclaguarulhos-446ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665837038463:android:e628f67d1e1742bfde084a",
+        "android_client_info": {
+          "package_name": "com.example.reciclaguarulhos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJyjKMjArW2jHMq4xwU-hWu1AqgyQlEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

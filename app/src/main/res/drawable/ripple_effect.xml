@@ -1,0 +1,4 @@
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#80FFFFFF"> <!-- Cor do efeito de clique -->
+    <item android:drawable="@drawable/rounded_button" />
+</ripple>

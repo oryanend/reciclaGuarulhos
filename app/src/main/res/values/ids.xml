@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_browse_fragment" type="id" />
+    <item name="txtDesc" type="id" />
+    <item name="txtTitulo" type="id" />
+</resources>
