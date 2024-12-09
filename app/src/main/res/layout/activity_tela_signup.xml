@@ -46,7 +46,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/txtTitleAgendamento" />
 
-    <!-- CPF -->
     <EditText
         android:id="@+id/editTextRuaNumero"
         android:layout_width="0dp"

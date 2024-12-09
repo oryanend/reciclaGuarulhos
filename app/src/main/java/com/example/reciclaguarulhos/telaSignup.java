@@ -11,7 +11,6 @@ import androidx.fragment.app.FragmentActivity;
 
 public class telaSignup extends FragmentActivity {
 
-
     private EditText editNome, editCpf, editEndereco, editCep, editEmail, editSenha;
     private Button buttonCadastrar;
     private UsuarioDAO usuarioDAO;

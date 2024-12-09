@@ -34,7 +34,6 @@ public class agendamento extends AppCompatActivity {
         TextView backButton = findViewById(R.id.txtCancelarAgendamento);
 
         backButton.setOnClickListener(v -> {
-            // Fecha a atividade atual e retorna à anterior
             finish();
         });
 
